@@ -20,7 +20,7 @@ The agent is equipped with a suite of features to streamline the research proces
 ## Technology Stack
 
 * **Platform:** IBM watsonx.ai
-* **Foundation Model:** Llama-3-3-70b-instruct
+* **Foundation Model:** mistral-large
 * **Architecture:** LangGraph with ReAct reasoning
 * **Tools:**
     * Google Search
