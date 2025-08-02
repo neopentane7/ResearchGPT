@@ -4,7 +4,7 @@ An intelligent research assistant designed to streamline academic and scientific
 
 ## Overview
 
-This repository documents an AI Research Agent built and deployed on **IBM watsonx.ai**. The agent is powered by the **llama-3-3-70b-instruct** foundation model and uses a sophisticated LangGraph with a ReAct reasoning architecture. It is designed to provide highly accurate, structured, and comprehensive responses to complex research inquiries.
+This repository documents an AI Research Agent built and deployed on **IBM watsonx.ai**. The agent is powered by the **mistral-large** foundation model and uses a sophisticated LangGraph with a ReAct reasoning architecture. It is designed to provide highly accurate, structured, and comprehensive responses to complex research inquiries.
 
 ## Core Capabilities
 
